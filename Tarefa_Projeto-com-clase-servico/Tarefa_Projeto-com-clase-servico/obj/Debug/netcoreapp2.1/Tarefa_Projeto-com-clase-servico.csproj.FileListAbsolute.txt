@@ -1,0 +1,11 @@
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\bin\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.deps.json
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\bin\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.runtimeconfig.json
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\bin\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.runtimeconfig.dev.json
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\bin\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.dll
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\bin\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.pdb
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\obj\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.csprojAssemblyReference.cache
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\obj\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.csproj.CoreCompileInputs.cache
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\obj\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.AssemblyInfoInputs.cache
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\obj\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.AssemblyInfo.cs
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\obj\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.dll
+C:\Users\danib\source\repos\Tarefa_Projeto-com-clase-servico\Tarefa_Projeto-com-clase-servico\obj\Debug\netcoreapp2.1\Tarefa_Projeto-com-clase-servico.pdb
